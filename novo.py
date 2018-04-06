@@ -42,5 +42,8 @@ print(frase.lower())
 #Divide a frase
 print(frase.split())
 
-#Encontrando a posição em que a palavra aparece
+#Encontrando a posição em que a letra aparece na palavra
 print(frase.find('a') + 1
+
+#Encontrando a ultima vez que a letra aparece na palavra
+print(frase.rfind('a') + 1      
